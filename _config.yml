@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://leadershipquickies.com
+title: "#eadershipquickies"
+email: info@turtletrafo.de
+author: Miriam & Markus Schmidberger
+description: Every Monday morning, we publish a leadership quickie. This is a short inspiration for your daily leadership work, it will open up your leader mindset, and it reminds you of basic leadership tools and principles.
+copyright: 'Copyright &copy; 2023 Turtel Transformation. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: web
+    url: https://turtletrafo.de
+  - title: linkedin
+    url: https://www.linkedin.com/company/turtletrafo
+  - title: Instragram
+    url: https://www.instagram.com/turtletrafo/
+  - title: Facebook
+    url: https://www.facebook.com/turtletrafo
+  - title: Email
+    url: mailto:info@turtletrafo.de
+  - title: Spotify2
+    url:
