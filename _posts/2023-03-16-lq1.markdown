@@ -1,0 +1,11 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: "Leadership Quickie #example01"
+description: |
+---
+
+*This week, I invite you to say “Thank You” to your manager and all your direct reports once a day.*
+
+[#leadershipquickies](https://www.linkedin.com/search/results/all/?keywords=%23leadershipquickies*) #leadership #newwork #transformation #efficiency #humancentric [@turtletrafo](https://turtletrafo.de)

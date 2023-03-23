@@ -1,0 +1,11 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: "Leadership Quickie #example02"
+description: |
+---
+
+*This week, I invite you to set an alarm 10 minutes before the end of every meeting. In the event of an alarm, summarize the meeting, define actions, and end the meeting 3 minutes earlier.*
+
+[#leadershipquickies](https://www.linkedin.com/search/results/all/?keywords=%23leadershipquickies*) #leadership #newwork #transformation #efficiency #humancentric [@turtletrafo](https://turtletrafo.de)
