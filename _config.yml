@@ -22,15 +22,17 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: web
+  - title: globe
     url: https://turtletrafo.de
+  - title: inbox
+    url: mailto:info@turtletrafo.de
   - title: linkedin
     url: https://www.linkedin.com/company/turtletrafo
-  - title: Instragram
+  - title: instagram
     url: https://www.instagram.com/turtletrafo/
-  - title: Facebook
+  - title: facebook
     url: https://www.facebook.com/turtletrafo
-  - title: Email
-    url: mailto:info@turtletrafo.de
-  - title: Spotify2
-    url:
+  - title: youtube
+    url: https://www.youtube.com/@turtletrafo
+  - title: spotify
+    url: https://open.spotify.com/show/1hNGs66lvTti53RSPLUyqr

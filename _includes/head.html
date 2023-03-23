@@ -7,6 +7,11 @@
     <meta name="author" content="{{ site.author }}">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:url" content="{{site.baseurl}}{{page.url}}" />
+    <meta property="og:type" content="article">
+  <!--  <meta property="og:image" content="{% if page.img %}{{site.url}}/img/services/{{page.img}}{% else %}https://turtletrafo.de/img/logo/trafo_logo_text_color_big.jpg{% endif %}" /> -->
 
     <!-- Bootstrap Core CSS -->
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
@@ -14,8 +19,10 @@
     <!-- Custom CSS -->
     <link href="css/landing-page.css" rel="stylesheet">
 
+    <!-- favicon -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-
+    <!-- fontawsome -->
+    <script src="https://kit.fontawesome.com/fe22dfb161.js" crossorigin="anonymous"></script>
 
 </head>
