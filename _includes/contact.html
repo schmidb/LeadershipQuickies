@@ -10,12 +10,15 @@
 
 <br>
 
-
 			<div class="row text-center">
+				<div class="col-sm-1 col-md-1">
+					 <img src="img/turtle_transparent.png" width=40px>
+				</div>
 				{% for social in site.social %}
 				<div class="col-sm-1 col-md-1">
+					 <br>
 					 <a href="{{ social.url }}"><i class="fa fa-{{ social.title }} fa-2xl"></i></a>
-						 <br><br>
+					 <br>
 				</div>
 				{% endfor %}
 			</div>
