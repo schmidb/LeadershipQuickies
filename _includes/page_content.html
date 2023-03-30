@@ -6,17 +6,7 @@
 
             <div class="row">
 
-              {% for post in site.posts reversed %}
-                <div class="col-lg-6 col-sm-6">
-                  <div class="panel panel-default">
-                    <div class="panel-body">
-                    <h2 class="section-heading">{{ post.title }}</h2>
-                    <div class="lead">{{ post.content }}</div>
-                  </div>
-                  </div>
-
-                </div>
-              {% endfor %}
+  {{page.content}}
 
             </div>
 
