@@ -3,11 +3,14 @@
 # ----------------------- #
 
 url: https://leadershipquickies.com
-title: "#eadershipquickies"
+title: "#leadershipquickies"
 email: info@turtletrafo.de
 author: Miriam & Markus Schmidberger
 description: Every Monday morning, we publish a leadership quickie. This is a short inspiration for your daily leadership work, it will open up your leader mindset, and it reminds you of basic leadership tools and principles.
 copyright: 'Copyright &copy; 2023 Turtel Transformation. All Rights Reserved.'
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+google_analytics_tracking_id: G-TH3LDGGDZ8
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -16,6 +19,11 @@ copyright: 'Copyright &copy; 2023 Turtel Transformation. All Rights Reserved.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap
+  - jekyll-github-metadata
 
 # ----------------------- #
 #   3rd Party Settings    #
