@@ -6,7 +6,7 @@ url: https://leadershipquickies.com
 title: "#leadershipquickies"
 email: info@turtletrafo.de
 author: Miriam & Markus Schmidberger
-description: Every Monday morning, we publish a leadership quickie. This is a short inspiration for your daily leadership work, it will open up your leader mindset, and it reminds you of basic leadership tools and principles.
+description: Every Monday morning, we publish a leadership quickie. This is a short and action-oriented inspiration for your daily leadership work, it will open up your leader mindset, and it reminds you of basic leadership tools and principles.
 copyright: 'Copyright &copy; 2023 Turtel Transformation. All Rights Reserved.'
 
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
@@ -36,6 +36,8 @@ social:
     url: mailto:info@turtletrafo.de
   - title: linkedin
     url: https://www.linkedin.com/company/turtletrafo
+  - title: twitter
+    url: https://www.twitter.com/@turtletrafo
   - title: instagram
     url: https://www.instagram.com/turtletrafo/
   - title: facebook
